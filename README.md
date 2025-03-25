@@ -1,4 +1,5 @@
-#6 debug-tracer
+# debug-tracer
+
 not the best not the worst ig
 
 Usage:
